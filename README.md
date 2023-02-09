@@ -7,6 +7,6 @@
 - [ℹ️](https://tegerero-v2.pages.dev/) 
 Feel free to checkout my [portfolio](https://tegerero-v2.pages.dev/) website!
 - 🏢 Frontend Developer (UI/UX) [@Soda Digital](https://www.sodadigital.com.au/), in Sydney AU
-- 🧰 I build with: `React` `Typescript`, `JavaScript`, `Next.js`, `Gatsby.js`, `Svelte`,  `.Net`, `C#`, `Tailwind`, `Bootstrap` ...
+- 🧰 I build with: `React`, `Typescript`, `JavaScript`, `Next.js`, `Gatsby.js`, `Svelte`,  `.Net`, `C#`, `Tailwind`, `Bootstrap` ...
 - ⚡ I enjoy building lego, reading, playing games, and lifting weights :)
 - 📫 Reach out to me: kurtrendel@gmail.com
