@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ktegerero/)
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=FF0000" />](https://twitter.com/mr_ktegerero)
 
-- [![BR]ℹ️](https://tegerero-v2.pages.dev/) 
+- [ℹ️](https://tegerero-v2.pages.dev/) 
 Feel free to checkout my [portfolio](https://tegerero-v2.pages.dev/) website!
 - 🏢 Frontend Developer (UI/UX) [@Soda Digital](https://www.sodadigital.com.au/), in Sydney AU
 - 🧰 I build with: `React` `Typescript`, `JavaScript`, `Next.js`, `Gatsby.js`, `Svelte`,  `.Net`, `C#`, `Tailwind`, `Bootstrap` ...
