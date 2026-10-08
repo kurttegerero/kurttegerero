@@ -5,7 +5,7 @@
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=229FEC&color=white" />](https://twitter.com/mr_ktegerero)
 
 - [ℹ️](https://tegerero-v2.pages.dev/) 
-Feel free to checkout my [portfolio](https://tegerero-v2.pages.dev/) website!
+Feel free to checkout my [portfolio](https://tegerero-creative.vercel.app/) website!
 - 🏢 Frontend Developer (UI/UX) [@Soda Digital](https://www.sodadigital.com.au/), in Sydney AU
 - 🧰 I build with: `React`, `Next.js`, `Gatsby.js`, `Svelte`, `Typescript`, `JavaScript`, `ASP.Net MVC`, `C#`, `Tailwind`, `Bootstrap`, `CMS` ...
 - ⚡ I enjoy building lego, reading, playing games, and lifting weights :)
